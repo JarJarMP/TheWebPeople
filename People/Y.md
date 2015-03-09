@@ -1,1 +1,1 @@
-Yaron Schoen - [http://yaronschoen.com/info/](http://yaronschoen.com/info/)
+ * Yaron Schoen - [http://yaronschoen.com/info/](http://yaronschoen.com/info/)
