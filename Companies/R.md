@@ -1,5 +1,6 @@
  * Rainyday Interactive - [http://rainydayinteractive.net/](http://rainydayinteractive.net/)
  * Raleigh Web Design & Development - [http://www.weareo3.com/](http://www.weareo3.com/)
+ * Rally Interactive - [http://rallyinteractive.com/](http://rallyinteractive.com/)
  * Ramotion - [http://ramotion.com/](http://ramotion.com/)
  * Rareview - [http://www.rareview.com/](http://www.rareview.com/)
  * Red Giant Design Studio - [http://redgiantdesign.co.za/](http://redgiantdesign.co.za/)

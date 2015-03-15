@@ -1,6 +1,7 @@
  * e-content - [http://www.econtent.hu/](http://www.econtent.hu/)
  * Ecreate - [http://www.ecreate.com.au/](http://www.ecreate.com.au/)
  * eighty3creative - [http://www.eighty3creative.co.uk/](http://www.eighty3creative.co.uk/)
+ * Elegant Seagulls - [http://elegantseagulls.com/](http://elegantseagulls.com/)
  * Eleventh Edition - [http://www.eleventhedition.com/](http://www.eleventhedition.com/)
  * Elmastudio - [http://www.elmastudio.de/](http://www.elmastudio.de/)
  * Epic Creative Agency - [http://epic.net/](http://epic.net/)

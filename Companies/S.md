@@ -21,6 +21,7 @@
  * Studio Airport - [http://www.studioairport.nl/en](http://www.studioairport.nl/en)
  * Studio Magnolia - [http://www.studiomagnolia.com/](http://www.studiomagnolia.com/)
  * Stuff & Nonsense - [http://stuffandnonsense.co.uk/](http://stuffandnonsense.co.uk/)
+ * Stupid Studios - [https://stupid-studio.com/](https://stupid-studio.com/)
  * STYLERS - [http://www.stylers.hu/](http://www.stylers.hu/)
  * Subsign - [http://subsign.co/](http://subsign.co/)
  * Sunday - [http://www.sundaypublishing.com/](http://www.sundaypublishing.com/)

@@ -65,6 +65,7 @@
  * Joshua Keenes - [http://www.joshuakeenes.co.uk/](http://www.joshuakeenes.co.uk/)
  * Joshua Sortino - [http://joshuasortino.com/](http://joshuasortino.com/)
  * Joyce - [http://www.madebyjoyce.com/](http://www.madebyjoyce.com/)
+ * Joyce Van Herck - [http://www.joycevherck.com/](http://www.joycevherck.com/)
  * Julia Khusainova - [http://julia.im](http://julia.im)
  * Julie Freeman - [http://premium.wpmudev.org/](http://premium.wpmudev.org/)
  * Julien Lavallee - [http://www.julienlavallee.com/](http://www.julienlavallee.com/)

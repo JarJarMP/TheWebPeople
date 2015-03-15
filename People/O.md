@@ -1,3 +1,4 @@
+ * Olis Lisher - [http://lisher.net/](http://lisher.net/)
  * Oliver "Webman" - [http://www.webmandesign.eu/](http://www.webmandesign.eu/)
  * Oliver Lisher - [http://www.lisher.net/](http://www.lisher.net/)
  * Osvaldas Valutis - [http://osvaldas.info/](http://osvaldas.info/)

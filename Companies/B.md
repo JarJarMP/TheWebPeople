@@ -1,6 +1,7 @@
  * B3 Studios - [http://www.b3studios.co.uk/](http://www.b3studios.co.uk/)
  * Bakken & Baeck - [http://bakkenbaeck.com/](http://bakkenbaeck.com/)
  * Balsamiq Studios - [http://balsamiq.com/](http://balsamiq.com/)
+ * Basic - [http://www.basicagency.com/](http://www.basicagency.com/)
  * Bazaar Voice - [http://www.bazaarvoice.com/](http://www.bazaarvoice.com/)
  * Bell Creative Studio - [http://bellcreativestudio.com/](http://bellcreativestudio.com/)
  * Bememorable - [http://bememorable.co.uk/](http://bememorable.co.uk/)
