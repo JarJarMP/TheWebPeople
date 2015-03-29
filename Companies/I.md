@@ -9,3 +9,4 @@
  * Internet Focus - [http://www.ifocus.hu/](http://www.ifocus.hu/)
  * Interrobang - [http://www.interrobangthat.com/](http://www.interrobangthat.com/)
  * ISOflow - [http://isoflow.co.za/](http://isoflow.co.za/)
+ * Italic Studio - [http://italic-studio.com/](http://italic-studio.com/)

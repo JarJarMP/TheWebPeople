@@ -9,4 +9,5 @@
  * Etienne Ledemay - [http://www.artographik.fr/](http://www.artographik.fr/)
  * Eugene Krivoruchko - [http://work.ekrivoruchko.com](http://work.ekrivoruchko.com)
  * Eva Black - [http://www.evablackdesign.com/](http://www.evablackdesign.com/)
+ * Evan Dinsmore - [http://evandinsmore.ca/](http://evandinsmore.ca/)
  * Everett Zufelt - [http://zufelt.ca/](http://zufelt.ca/)

@@ -7,6 +7,7 @@
  * Ray Cheung - [http://raycheung.me/](http://raycheung.me/)
  * Regy Perlera - [http://www.perlera.co](http://www.perlera.co)
  * Riccardo Caroli - [http://www.minimit.com/](http://www.minimit.com/)
+ * Richard Littauer - [http://burntfen.com/](http://burntfen.com/)
  * Rick Knudtson - [http://www.rickknudtson.com/](http://www.rickknudtson.com/)
  * Rick Waalders - [http://pixelsbyrick.com/](http://pixelsbyrick.com/)
  * Rita DeRaedt - [http://www.ritaderaedt.com/](http://www.ritaderaedt.com/)

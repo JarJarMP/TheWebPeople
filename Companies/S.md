@@ -13,6 +13,7 @@
  * Snowden Industries - [http://snowdenindustries.com/](http://snowdenindustries.com/)
  * Snowflake Creative - [http://www.snowflakecreative.co.uk/](http://www.snowflakecreative.co.uk/)
  * SoftFacade - [http://softfacade.com/](http://softfacade.com/)
+ * Sozo - [http://sozodesign.co.uk/](http://sozodesign.co.uk/)
  * Sparkbox - [http://seesparkbox.com/](http://seesparkbox.com/)
  * Spigot Design - [http://spigotdesign.com/](http://spigotdesign.com/)
  * Spilt - [http://www.spilt.com.au/](http://www.spilt.com.au/)
