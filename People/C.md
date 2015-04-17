@@ -21,3 +21,4 @@
  * Craig Jamieson - [http://craigjamieson.com/](http://craigjamieson.com/)
  * Creative Tim - [http://www.creative-tim.com/](http://www.creative-tim.com/)
  * Crille Lampa - [http://www.crillelampa.se/](http://www.crillelampa.se/)
+ * Csaba Gabor - [http://csabagabor.com/](http://csabagabor.com/)

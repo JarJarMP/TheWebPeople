@@ -10,3 +10,4 @@
  * Hrenko - [http://www.hrenko.hu/](http://www.hrenko.hu/)
  * Hum Creative - [http://humcreative.com/](http://humcreative.com/)
  * Hyper - [http://hyper.no/](http://hyper.no/)
+ * Hyperquake - [http://www.hyperquake.com/](http://www.hyperquake.com/)

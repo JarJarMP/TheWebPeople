@@ -15,6 +15,7 @@
  * Thinkapps - [http://thinkapps.com/](http://thinkapps.com/index.html)
  * thoughtbot - [http://thoughtbot.com/](http://thoughtbot.com/)
  * Timothy Web Design - [http://www.timothywebdesign.com/](http://www.timothywebdesign.com/)
+ * Tiny Giant - [http://madebytinygiant.com/](http://madebytinygiant.com/)
  * TM Design - [http://www.tmdesign.sk/](http://www.tmdesign.sk/)
  * Tofslie - [http://portfolio.tofslie.com/](http://portfolio.tofslie.com/)
  * tokiolab! - [http://www.tokiolab.it/#/](http://www.tokiolab.it/#/)
@@ -24,3 +25,4 @@
  * Trafficlight - [http://www.trafficlight.se/](http://www.trafficlight.se/)
  * Trokit - [http://trokit.com/](http://trokit.com/)
  * Two Giraffes - [http://twogiraffes.com/](http://twogiraffes.com/)
+ * Twofold Creative - [http://twofold.com/](http://twofold.com/)

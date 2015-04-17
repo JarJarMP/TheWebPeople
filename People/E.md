@@ -5,6 +5,7 @@
  * Elliot Condon - [http://www.elliotcondon.com/](http://www.elliotcondon.com/)
  * Emilie Crssrd - [http://crssrd.com/](http://crssrd.com/)
  * Eric Paul Snowden - [http://www.ericpaulsnowden.com/blog/](http://www.ericpaulsnowden.com/blog/)
+ * Erik Kennedy - [http://erikdkennedy.com/](http://erikdkennedy.com/)
  * Erika Gál - [http://www.gerika.hu/](http://www.gerika.hu/)
  * Etienne Ledemay - [http://www.artographik.fr/](http://www.artographik.fr/)
  * Eugene Krivoruchko - [http://work.ekrivoruchko.com](http://work.ekrivoruchko.com)

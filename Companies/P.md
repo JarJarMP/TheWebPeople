@@ -3,6 +3,7 @@
  * Panic - [http://panic.com/](http://panic.com/)
  * Papertelevision - [http://www.papertelevision.com/](http://www.papertelevision.com/)
  * Paqart - [http://paqart.hu/](http://paqart.hu/)
+ * Paradox Design Studio - [http://paradoxcreates.com/](http://paradoxcreates.com/)
  * Paramore - [http://paramore.is/](http://paramore.is/)
  * Pebble design - [http://pebbledesign.com/](http://pebbledesign.com/)
  * Peekaboo Design Agency - [http://peekaboodesign.co.uk/](http://peekaboodesign.co.uk/)

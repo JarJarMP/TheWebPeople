@@ -9,4 +9,5 @@
  * WebTown - [http://www.webtown.hu/](http://www.webtown.hu/)
  * WerkPress - [http://werkpress.com/](http://werkpress.com/)
  * Whiteboard - [http://whiteboard.is/](http://whiteboard.is/)
+ * Wixel - [http://wixelhq.com/](http://wixelhq.com/)
  * Worry Free Labs - [http://worryfreelabs.com/](http://worryfreelabs.com/)

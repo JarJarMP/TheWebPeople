@@ -3,6 +3,7 @@
  * Garden Studio - [http://gardenstudio.com.br/en](http://gardenstudio.com.br/en)
  * GBaRT Website - [http://gbart.hu/](http://gbart.hu/)
  * Gedeon - [http://www.gedeon.hu/](http://www.gedeon.hu/)
+ * Going Bold - [https://www.goingbold.co.uk/](https://www.goingbold.co.uk/)
  * Good Evening - [http://www.goodevening.tv/](http://www.goodevening.tv/)
  * Goweb - [http://goweb.pt/](http://goweb.pt/)
  * Grain & Mortar - [http://grainandmortar.com/](http://grainandmortar.com/)
