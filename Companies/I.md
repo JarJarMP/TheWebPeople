@@ -6,6 +6,7 @@
  * Indubitablee - [http://indubitablee.com/](http://indubitablee.com/)
  * Inflicted - [http://inflicted.nl/](http://inflicted.nl/)
  * Information Architects - [http://informationarchitects.net/](http://informationarchitects.net/)
+ * Interactive Red - [https://www.interactivered.com/](https://www.interactivered.com/)
  * Internet Focus - [http://www.ifocus.hu/](http://www.ifocus.hu/)
  * Interrobang - [http://www.interrobangthat.com/](http://www.interrobangthat.com/)
  * ISOflow - [http://isoflow.co.za/](http://isoflow.co.za/)

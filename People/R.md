@@ -22,6 +22,7 @@
  * Roy Barber - [http://roybarber.com/](http://roybarber.com/)
  * Ruben D Oliveira - [http://www.rubendoliveira-design.com/](http://www.rubendoliveira-design.com/)
  * Ryan Clark - [http://www.ryanvsclark.com](http://www.ryanvsclark.com)
+ * Ryan Gittings - [http://www.ryangittings.co.uk/](http://www.ryangittings.co.uk/)
  * Ryan Hellyer - [https://geek.hellyer.kiwi/](https://geek.hellyer.kiwi/)
  * Ryan Imel - [http://ryanimel.com/](http://ryanimel.com/)
  * Ryan Johnson - [http://ryjohnson.com/](http://ryjohnson.com/)

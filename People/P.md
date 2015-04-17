@@ -1,6 +1,7 @@
  * Pablo Lara Henriquez - [http://pablolarah.cl/](http://pablolarah.cl/)
  * Patrick Allen Grady - [http://www.pgrady.com/](http://www.pgrady.com/)
  * Patrick McNeil - [http://pmcneil.com/](http://pmcneil.com/)
+ * Patrick Monkel - [http://monk-design.nl/](http://monk-design.nl/)
  * Patrick Wied - [http://www.patrick-wied.at/](http://www.patrick-wied.at/)
  * Paul Adam Davis - [http://codebymonkey.com/](http://codebymonkey.com/)
  * Paul Bennett - [http://pmbennett.net/](http://pmbennett.net/)

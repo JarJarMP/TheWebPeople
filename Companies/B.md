@@ -18,6 +18,7 @@
  * Bodhum - [http://www.bodhum.net/](http://www.bodhum.net/)
  * Brand Aid - [http://www.brandaiddesignco.com/](http://www.brandaiddesignco.com/)
  * Brankic 1979 - [http://www.brankic1979.com/](http://www.brankic1979.com/)
+ * Brave the Woods - [http://bravethewoods.com/](http://bravethewoods.com/)
  * BrightByte - [http://brightbyte.co.uk/](http://brightbyte.co.uk/)
  * Bronco - [http://www.bronco.co.uk/](http://www.bronco.co.uk/)
  * Brooklyn United - [http://www.brooklynunited.com/](http://www.brooklynunited.com/)

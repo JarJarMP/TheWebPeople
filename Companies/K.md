@@ -4,4 +4,5 @@
  * Kisko Labs - [http://kiskolabs.com/](http://kiskolabs.com/)
  * Kitchen Sink Studios - [http://kitchensinkstudios.com/](http://kitchensinkstudios.com/)
  * KreaNod - [http://kreanod.hu/](http://kreanod.hu/)
+ * Kreativa Studio - [http://www.kreativa-studio.com/](http://www.kreativa-studio.com/)
  * Kreatív Vonalak Kft. [http://www.kreativvonalak.hu/](http://www.kreativvonalak.hu/)

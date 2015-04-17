@@ -12,6 +12,7 @@
  * Benjamin Nathan - [http://benjaminnathan.nl/](http://benjaminnathan.nl/)
  * Bennett Feely - [http://bennettfeely.com/](http://bennettfeely.com/)
  * Bent Design Studio - [http://www.bentdesignstudio.com/](http://www.bentdesignstudio.com/)
+ * Bethany Heck - [http://heckhouse.com/](http://heckhouse.com/)
  * Bill Erickson - [http://www.billerickson.net/](http://www.billerickson.net/)
  * Bill S Kenney - [http://www.focuslabllc.com](http://www.focuslabllc.com)
  * Bjorn Borresen - [http://bybjorn.com/](http://bybjorn.com/)

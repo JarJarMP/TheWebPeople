@@ -26,3 +26,4 @@
  * Stuart Robson - [http://alwaystwisted.com/](http://alwaystwisted.com/)
  * Suresh Ariya - [http://sureshdotariya.blogspot.in/](http://sureshdotariya.blogspot.in/)
  * Susanne Paschke - [http://susannepaschke.de/](http://susannepaschke.de/)
+ * Sylvain Weiss - [http://www.sylvainweiss.fr/](http://www.sylvainweiss.fr/)

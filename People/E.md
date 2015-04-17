@@ -4,6 +4,7 @@
  * Elias Stein - [http://www.eliasstein.com](http://www.eliasstein.com)
  * Elliot Condon - [http://www.elliotcondon.com/](http://www.elliotcondon.com/)
  * Emilie Crssrd - [http://crssrd.com/](http://crssrd.com/)
+ * Eric Huguenin - [http://eric-huguenin.com/](http://eric-huguenin.com/)
  * Eric Paul Snowden - [http://www.ericpaulsnowden.com/blog/](http://www.ericpaulsnowden.com/blog/)
  * Erik Kennedy - [http://erikdkennedy.com/](http://erikdkennedy.com/)
  * Erika Gál - [http://www.gerika.hu/](http://www.gerika.hu/)

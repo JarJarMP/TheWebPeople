@@ -3,6 +3,7 @@
  * Geri Coady - [http://hellogeri.com/](http://hellogeri.com/)
  * Gilles Munten - [http://www.cmyk08.be/](http://www.cmyk08.be/)
  * Grace Coote - [http://gracecoote.co.uk/](http://gracecoote.co.uk/)
+ * Greg Washington - [http://www.gregwashington.ca/](http://www.gregwashington.ca/)
  * Guillaume De La Rue - [http://www.web2ajax.fr/](http://www.web2ajax.fr/)
  * Guillaume Juvenet - [http://www.guillaumejuvenet.com/](http://www.guillaumejuvenet.com/)
  * Gusztáv Nagy - [http://nagygusztav.hu/](http://nagygusztav.hu/)
