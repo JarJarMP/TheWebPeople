@@ -9,6 +9,8 @@
  * Reset Designs - [http://resetdesigns.com/](http://resetdesigns.com/)
  * Return Technologies - [http://return.tc/](http://return.tc/)
  * Reverend Danger - [http://reverenddanger.com/](http://reverenddanger.com/)
+ * RGB MEDIA - [http://rgb-ltd.co.uk/](http://rgb-ltd.co.uk/)
+ * Rhythm - [http://www.rhythmrhythm.com/](http://www.rhythmrhythm.com/)
  * river graphics - [http://rivergraphics.net/](http://rivergraphics.net/)
  * Robocat - [http://robocatapps.com/](http://robocatapps.com/)
  * Rocker Creative - [http://rockercreative.com/](http://rockercreative.com/)

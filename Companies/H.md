@@ -9,5 +9,6 @@
  * Horizon webstúdió - [http://horizonline.hu/](http://horizonline.hu/)
  * Hrenko - [http://www.hrenko.hu/](http://www.hrenko.hu/)
  * Hum Creative - [http://humcreative.com/](http://humcreative.com/)
+ * Huncwot - [http://huncwot.com/about](http://huncwot.com/about)
  * Hyper - [http://hyper.no/](http://hyper.no/)
  * Hyperquake - [http://www.hyperquake.com/](http://www.hyperquake.com/)

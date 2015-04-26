@@ -2,6 +2,7 @@
  * Octopus Creative - [http://octopuscreative.com/](http://octopuscreative.com/)
  * Ocular Harmony - [http://www.ocularharmony.com/portfolio/](http://www.ocularharmony.com/portfolio/)
  * Odopod - [http://odopod.com/](http://odopod.com/)
+ * Oh My! - [http://www.ohmy.io/](http://www.ohmy.io/)
  * Olegnax - [http://olegnax.com/](http://olegnax.com/)
  * Ombres et Lumieres - [http://www.ombreslumieres.com/](http://www.ombreslumieres.com/)
  * Omni - [http://www.omni-digital.co.uk/](http://www.omni-digital.co.uk/)

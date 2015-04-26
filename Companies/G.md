@@ -7,6 +7,7 @@
  * Good Evening - [http://www.goodevening.tv/](http://www.goodevening.tv/)
  * Goweb - [http://goweb.pt/](http://goweb.pt/)
  * Grain & Mortar - [http://grainandmortar.com/](http://grainandmortar.com/)
+ * Gravita Creative - [http://www.gravita.co/](http://www.gravita.co/)
  * Gravitate - [http://www.gravitatedesign.com/#work](http://www.gravitatedesign.com/#work)
  * Green Chameleon - [http://www.craftedbygc.com/](http://www.craftedbygc.com/)
  * Grid and Flow - [http://gridandflow.com/](http://gridandflow.com/)
