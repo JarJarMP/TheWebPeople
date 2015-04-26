@@ -36,6 +36,7 @@
  * Alex Peattie - [http://www.alexpeattie.com/](http://www.alexpeattie.com/)
  * Alex Riegert Waters - [http://www.alexriegert-waters.com/](http://www.alexriegert-waters.com/)
  * Alexander Agnarson - [http://alxmedia.se/](http://alxmedia.se/)
+ * Alexander Collin - [http://alexandercollin.com/](http://alexandercollin.com/)
  * Alexander Zhestkov - [http://azhestkov.ru/](http://azhestkov.ru/)
  * Alexandra Fomicheva - [http://alfoart.com/](http://alfoart.com/)
  * Alexandre Ribeiro - [http://www.aribeo.co/](http://www.aribeo.co/)

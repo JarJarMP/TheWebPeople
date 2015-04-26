@@ -61,6 +61,7 @@
  * Mike Davidson - [http://www.mikeindustries.com/](http://www.mikeindustries.com/)
  * Mike Johnson - [http://mikejohnsondesign.com/](http://mikejohnsondesign.com/)
  * Mike Kus - [http://mikekus.com/](http://mikekus.com/)
+ * Mike McMillan -  [http://mcchill.in/](http://mcchill.in/)
  * Mike Schinkel - [http://mikeschinkel.com/](http://mikeschinkel.com/)
  * Mike Smith - [http://www.madebyguerrilla.com/](http://www.madebyguerrilla.com/)
  * Mikha Makhoul - [http://www.mikha.me](http://www.mikha.me)

@@ -9,6 +9,7 @@
  * Paul Galbraith - [http://paulgalbraith.com/](http://paulgalbraith.com/)
  * Paul Irish - [http://paulirish.com/](http://paulirish.com/)
  * Paul Jarvis - [http://pjrvs.com/](http://pjrvs.com/)
+ * Paul Macgregor - [http://p--m.co/](http://p--m.co/)
  * Paul Noble - [http://pauljnoble.com/](http://pauljnoble.com/)
  * Paul Stamatiou - [http://paulstamatiou.com/](http://paulstamatiou.com/)
  * Paula Borowska - [http://paulaborowska.com/](http://paulaborowska.com/)

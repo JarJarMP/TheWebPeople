@@ -6,6 +6,7 @@
  * Kathrine Zollner - [http://www.highlighter.dk/](http://www.highlighter.dk/)
  * Kayla Knight - [http://kaylaknight.com/](http://kaylaknight.com/)
  * Kazuyuki Motoyama - [http://kudakurage.com/](http://kudakurage.com/)
+ * Keith Clark - [http://keithclark.co.uk/](http://keithclark.co.uk/)
  * Kelly Shami - [http://www.kellyshami.com](http://www.kellyshami.com)
  * Kendra Schaefer - [http://www.kendraschaefer.com/](http://www.kendraschaefer.com/)
  * Kenneth Cachia - [http://kennethcachia.com/](http://kennethcachia.com/)

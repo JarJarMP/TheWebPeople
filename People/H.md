@@ -2,6 +2,8 @@
  * Hannah Wolfe - [http://hannah.wf/](http://hannah.wf/)
  * Haraldur Thorleifsson - [http://haraldurthorleifsson.com](http://haraldurthorleifsson.com)
  * Harry Ford - [http://harryford.co.uk/](http://harryford.co.uk/)
+ * Hayden Bleasel - [http://hydn.co/](http://hydn.co/)
+ * Helen Hou-Sandí - [http://helenhousandi.com/](http://helenhousandi.com/)
  * Henry Brown - [http://henry.brown.name/](http://henry.brown.name/)
  * Hila Peleg - [http://hilapeleg.io/](http://hilapeleg.io/)
  * Hogas Marius - [http://www.hogash.com/](http://www.hogash.com/)

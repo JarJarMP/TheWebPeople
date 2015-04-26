@@ -6,6 +6,7 @@
  * Thomas Aull - [http://www.thomas-aull.de/](http://www.thomas-aull.de/)
  * Thomas Benett - [http://www.electricblooms.co.uk/](http://www.electricblooms.co.uk/)
  * Thomas Bishop - [http://iamthomasbishop.com/](http://iamthomasbishop.com/)
+ * Thomas Buffer - [http://www.thmsbfft.fr/](http://www.thmsbfft.fr/)
  * Thomas Michel - [http://www.thomasmichel.me](http://www.thomasmichel.me)
  * Thomas Vimare - [http://thomas-vimare.com/](http://thomas-vimare.com/)
  * Thorbjørn Gudnason - [http://www.tgudnason.com](http://www.tgudnason.com)

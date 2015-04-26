@@ -30,6 +30,7 @@
  * dembsky.me - [http://dembsky.me/](http://dembsky.me/)
  * Dennis Field - [http://iamdennisfield.com/](http://iamdennisfield.com/)
  * Derek Allard - [http://derekallard.com/](http://derekallard.com/)
+ * Derek Boateng - [http://derekboateng.com/](http://derekboateng.com/)
  * Derrick Castle - [http://strawcastle.com/](http://strawcastle.com/)
  * Dmitry Semenov - [http://dimsemenov.com/](http://dimsemenov.com/)
  * Donovan Hutchinson - hop.ie - [http://hop.ie/](http://hop.ie/)

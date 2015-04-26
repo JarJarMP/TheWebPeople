@@ -3,6 +3,7 @@
  * Sam Quayle - [http://www.pelicanfly.co.uk/](http://www.pelicanfly.co.uk/)
  * Samuel Fine - [http://samuelfine.com/](http://samuelfine.com/)
  * Sara Marshall - [http://itssaramarshall.com/](http://itssaramarshall.com/)
+ * Sara Soueidan - [http://sarasoueidan.com/index.html](http://sarasoueidan.com/index.html)
  * Sara Vieira - [http://www.iamsaravieira.com/](http://www.iamsaravieira.com/)
  * Sarah Evans - [http://www.sarahevansdesign.co.uk/](http://www.sarahevansdesign.co.uk/)
  * Sergey Popovych - [http://sergpopovych.com/](http://sergpopovych.com/)

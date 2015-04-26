@@ -2,5 +2,6 @@
  * Ilham Herry - [http://www.about.me/ilhamherry](http://www.about.me/ilhamherry)
  * Ioana Sopov - [http://www.ioanasopov.com/](http://www.ioanasopov.com/)
  * Ionut Zamfir - [http://www.behance.net/ionuss](http://www.behance.net/ionuss)
+ * Ire Aderinokun - [http://www.ireaderinokun.com/](http://www.ireaderinokun.com/)
  * Itai Inselberg - [http://itaiinselberg.com/](http://itaiinselberg.com/)
  * Ivo Mynttinen - [http://ivomynttinen.com/](http://ivomynttinen.com/)

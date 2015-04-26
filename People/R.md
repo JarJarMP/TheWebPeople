@@ -12,6 +12,7 @@
  * Rick Waalders - [http://pixelsbyrick.com/](http://pixelsbyrick.com/)
  * Rita DeRaedt - [http://www.ritaderaedt.com/](http://www.ritaderaedt.com/)
  * Rob Sterlini - [http://robsterlini.co.uk/](http://robsterlini.co.uk/)
+ * Rob Voets - [http://www.voetsdesign.com/](http://www.voetsdesign.com/)
  * Robbie Manson - [http://www.robbiemanson.com/](http://www.robbiemanson.com/)
  * Rodolphe Célestin - [http://rodolphecelestin.com/](http://rodolphecelestin.com/)
  * Rog.ie - [http://rog.ie/](http://rog.ie/)
