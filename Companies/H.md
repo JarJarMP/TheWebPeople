@@ -3,6 +3,7 @@
  * Havasweb - [http://havasweb.hu/](http://havasweb.hu/)
  * Higher Click - [http://www.higherclick.com/](http://www.higherclick.com/)
  * hitmo - [http://hitmo-studio.com/](http://hitmo-studio.com/)
+ * Hoarrd! - [https://hoarrd.com/](https://hoarrd.com/)
  * Honlap.hu - [http://www.honlap.hu/](http://www.honlap.hu/)
  * Honlapasz.hu - [http://honlapasz.hu/](http://honlapasz.hu/)
  * Honlapsiker - [http://www.honlapsiker.hu/](http://www.honlapsiker.hu/)

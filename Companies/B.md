@@ -16,6 +16,7 @@
  * Bluchic - [http://www.bluchic.com/](http://www.bluchic.com/)
  * BlueRay Kft. - [http://www.blueray.hu/](http://www.blueray.hu/)
  * Bodhum - [http://www.bodhum.net/](http://www.bodhum.net/)
+ * Boomerang - [http://www.boomerangpr.com/](http://www.boomerangpr.com/)
  * Brand Aid - [http://www.brandaiddesignco.com/](http://www.brandaiddesignco.com/)
  * Brankic 1979 - [http://www.brankic1979.com/](http://www.brankic1979.com/)
  * Brave the Woods - [http://bravethewoods.com/](http://bravethewoods.com/)
