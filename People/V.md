@@ -2,6 +2,7 @@
  * Vanessa Pepin - [http://pepinvanessa.com](http://pepinvanessa.com)
  * Varun Sudhakar - [http://www.vdezignstudio.com/](http://www.vdezignstudio.com/)
  * Veerle Pieters - [http://veerle.duoh.com/](http://veerle.duoh.com/)
+ * Veerle Pieters - [veerle.duoh.com](veerle.duoh.com)
  * Vic Bell - [http://www.vicbell.co.uk/](http://www.vicbell.co.uk/)
  * Victor Erixon - [http://victorerixon.com/](http://victorerixon.com/)
  * Viljami Salminen - [http://viljamis.com/](http://viljamis.com/)

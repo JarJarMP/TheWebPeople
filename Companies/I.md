@@ -9,5 +9,6 @@
  * Interactive Red - [https://www.interactivered.com/](https://www.interactivered.com/)
  * Internet Focus - [http://www.ifocus.hu/](http://www.ifocus.hu/)
  * Interrobang - [http://www.interrobangthat.com/](http://www.interrobangthat.com/)
+ * INweb Informatika - [http://inweb.hu/](http://inweb.hu/)
  * ISOflow - [http://isoflow.co.za/](http://isoflow.co.za/)
  * Italic Studio - [http://italic-studio.com/](http://italic-studio.com/)
